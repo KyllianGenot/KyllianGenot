@@ -1,18 +1,20 @@
 # Welcome to Kyllian's GitHub Repository 🌟
 
-Hi there! I'm **Kyllian GENOT**, a passionate **M1 Fintech student at ESILV (École Supérieure d'Ingénieurs Léonard de Vinci)**. My journey blends cutting-edge technology, financial innovation, and creativity, with a keen interest in Blockchain, Trading, Machine Learning, and VR game development.
+Hi there! I'm **Kyllian GENOT**, a passionate **M1 Fintech student at ESILV (École Supérieure d'Ingénieurs Léonard de Vinci)**. My journey blends cutting-edge technology, financial innovation, and creativity, with a keen interest in Blockchain, Trading, Machine Learning, and Design.
 
 ## 🚀 About Me
 
 - 🎓 **Education**: Engineering background in Science, Mathematics, Fintech and Blockchain.
 - 🏦 **Interests**: Blockchain, Trading, Machine Learning, and Software Development.
 - 🎮 **Current Projects**:
-  - Building a **machine learning model for Bitcoin price prediction** using OHLC and volume data.
+  - Building a **Machine Learning model for Bitcoin price prediction** using OHLC and volume data.
   - A **VR shooter rogue-like game** in Unity, featuring procedurally generated waves and dynamic maps.
 - 💼 **Experience**:
   - Development of a **trading strategy indicator** with **PineScript** in **TradingView**.
   - Hands-on experience as a **stockist at Gucci, Givenchy and Goyard**.
   - Actively seeking internships in **Blockchain and Fintech companies** to deepen expertise in development.
+- 🤝 **Community**:
+  - Member of Kryptosphere DeVinci, an association dedicated to exploring and innovating in Blockchain and Web3 technologies.
 
 ## 🛠️ Languages and Tools:
 
@@ -32,7 +34,7 @@ Hi there! I'm **Kyllian GENOT**, a passionate **M1 Fintech student at ESILV (Éc
 - 📈 **Trading Innovations**: Strategies and risk management for Gold and NASDAQ with TradingView.
 
 ## 🌍 Let's Collaborate
-I'm always eager to collaborate on challenging projects in Fintech, Blockchain, AI or Gaming. Feel free to explore my repositories and connect with me!
+I'm always eager to collaborate on challenging projects in Fintech, Blockchain, AI or Design. Feel free to explore my repositories and connect with me!
 
 - 📧 Email: **[kygenot@gmail.com]**
 - 💼 LinkedIn: **[[Kyllian Genot](https://www.linkedin.com/in/kyllian-genot/)]**
