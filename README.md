@@ -14,7 +14,7 @@ Hi there! I'm **Kyllian GENOT**, a passionate **M1 Fintech student at ESILV (Éc
   - Hands-on experience as a **stockist at Gucci, Givenchy and Goyard**.
   - Actively seeking internships in **blockchain companies** to deepen expertise in development.
 
-## Languages and Tools:
+## 🛠️ Languages and Tools:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
