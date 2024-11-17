@@ -10,7 +10,7 @@ Hi there! I'm **Kyllian GENOT**, a passionate **M1 Fintech student at ESILV (Éc
   - Building a **machine learning model for Bitcoin price prediction** using OHLC and volume data.
   - A **VR shooter rogue-like game** in Unity, featuring procedurally generated waves and dynamic maps.
 - 💼 **Experience**:
-  - Development of a trading strategy indicator with PineScript in TradingView.
+  - Development of a **trading strategy indicator** with **PineScript** in **TradingView**.
   - Hands-on experience as a **stockist at Gucci, Givenchy and Goyard**.
   - Actively seeking internships in **blockchain companies** to deepen expertise in development.
 
