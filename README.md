@@ -35,7 +35,6 @@ Hi there! I'm **Kyllian GENOT**, a passionate **M1 Fintech student at ESILV (Éc
 ![PineScript](https://img.shields.io/badge/PineScript-009988?style=for-the-badge&logo=tradingview&logoColor=white)
 
 ## 🌍 Let's Collaborate
-Feel free to explore my repositories and connect with me!
 
-- 📧 Email: **[kygenot@gmail.com]**
 - 💼 LinkedIn: **[[Kyllian Genot](https://www.linkedin.com/in/kyllian-genot/)]**
+- 📧 Email: **[kygenot@gmail.com]**
