@@ -1,6 +1,6 @@
 # Welcome to <a href="https://www.linkedin.com/in/kyllian-genot/">Kyllian's</a> GitHub Repository 🌟
 
-Hi there! I'm **Kyllian GENOT**, a passionate **M1 Fintech student at ESILV (École Supérieure d'Ingénieurs Léonard de Vinci)**. My journey blends cutting-edge technology, financial innovation, and creativity, with a keen interest in Blockchain, Trading, Machine Learning, and Design.
+Hi there! I'm **Kyllian GENOT**, a passionate **M1 Fintech/UX Design student at ESILV (École Supérieure d'Ingénieurs Léonard de Vinci)**. My journey blends cutting-edge technology, financial innovation, and creativity, with a keen interest in Blockchain, Trading, Machine Learning, and Design.
 
 ## 🚀 About Me
 
@@ -10,6 +10,7 @@ Hi there! I'm **Kyllian GENOT**, a passionate **M1 Fintech student at ESILV (Éc
   - Building a **Machine Learning model for Bitcoin price prediction** using OHLC and volume data.
   - A **VR shooter rogue-like game** in Unity, featuring procedurally generated waves and dynamic maps.
 - 💼 **Experience**:
+  - Development of an interactive and responsive podium for **Cryptoast**, utilizing **HTML**, **CSS**, **JavaScript**, and dynamic **JSON** data.
   - Front-end development for **decID** during **IXH24**, an **XRPL hackathon in Italy**, where the team achieved **2nd place**.
   - Development of a **trading strategy indicator** with **PineScript** in **TradingView**.
   - Hands-on experience as a **stockist at Gucci, Givenchy and Goyard**.
