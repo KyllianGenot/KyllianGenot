@@ -22,6 +22,7 @@ Hi there! I'm **Kyllian GENOT**, a passionate **M1 Fintech/UX Design student at 
 
 | 🏅 **Prize** | 🚀 **Project** | 📅 **Date** | 🌍 **Location** |
 | --- | --- | --- | --- |
+| 💰 **2nd Place @ ETHDenver 2025** | [RippleTip](https://github.com/KyllianGenot/RippleTip) | **Mar 2025** | [ETHDenver 2025](https://ethdenver2025.devfolio.co/projects) |
 | 💰 **1st Place @ Kiln Hackathon** | [Vale](https://github.com/KyllianGenot/Vale) | **Feb 2025** | [Kiln Hackathon](https://www.kiln.fi/) |
 | 💰 **2nd Place @ IXH24 (XRPL)** | [decID](https://github.com/KyllianGenot/decID) | **Nov 2024** | [IXH24 Hackathon](https://www.xrpl-commons.org/hackathons/ixh24-italian-xrpl-hackathon-2024) |
 
