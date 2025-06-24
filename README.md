@@ -38,6 +38,12 @@ Hi there! I'm **Kyllian GENOT**, a passionate **M1 Fintech/UX Design student at 
     <th>🌍 Event</th>
   </tr>
   <tr>
+    <td>🥇 <b>1st Place @ EasyA x Ripple Apex Hackathon 2025</b></td>
+    <td><a href="https://github.com/WaveTip">WaveTip</a></td>
+    <td>June 2025</td>
+    <td><a href="https://www.easya.io/events/easya-ripple-apex-hackathon">Apex Hackathon 2025</a></td>
+  </tr>
+  <tr>
     <td>🥈 <b>2nd Place @ ETHDenver 2025</b></td>
     <td><a href="https://github.com/KyllianGenot/RippleTip">RippleTip</a></td>
     <td>March 2025</td>
@@ -60,36 +66,21 @@ Hi there! I'm **Kyllian GENOT**, a passionate **M1 Fintech/UX Design student at 
 ## 🚀 Current Projects
 
 <details>
-<summary><b>🐺 StarkWolf - Social Deduction Game on Starknet</b></summary>
+<summary><b>💰 WaveTip - Twitch Tipping Extension using RLUSD</b></summary>
 <br>
-Developing <b>StarkWolf</b>, an on-chain version of the classic Werewolf game built on Starknet. This project combines blockchain technology with social deduction gameplay, featuring:
+Building <b>WaveTip</b>, a comprehensive Twitch browser extension that enables seamless RLUSD tipping to streamers:
 <ul>
-<li>Dynamic role creation and game systems</li>
-<li>Automated player interaction and timing mechanisms</li>
-<li>Integrated betting system using STRK tokens</li>
-<li>Frontend built with React.js and Tauri</li>
-<li>GraphQL for backend-frontend communication</li>
-</ul>
-StarkWolf represents the intersection of blockchain gaming, social mechanics, and financial incentives in a fully on-chain experience.
-</details>
-
-<details>
-<summary><b>💰 RippleTip - Discord Tipping Bot for RLUSD</b></summary>
-<br>
-Building <b>RippleTip</b>, a comprehensive Discord bot that enables seamless RLUSD transactions within communities:
-<ul>
-<li>Send and receive RLUSD tokens directly through Discord commands</li>
+<li>Send RLUSD tokens directly through Twitch interface</li>
 <li>Integrated wallet management system</li>
 <li>PayMaster contract for gas-free transactions</li>
-<li>Built-in lottery and reward systems</li>
 <li>User-friendly transaction history and statistics</li>
 </ul>
-This project aims to boost RLUSD adoption by bringing stablecoin-powered payments to millions of Discord users.
+This project aims to boost RLUSD adoption by bringing stablecoin-powered payments to millions of Twitch users.
 </details>
 
 ## 💼 Professional Experience
 
-- 💰 Creator of **RippleTip**, a Discord bot for RLUSD transactions that won **2nd Place at ETHDenver 2025**
+- 💰 Creator of **WaveTip**, a Twitch browser extension using RLUSD that won **1st Place at EasyA x Ripple Apex Hackathon 2025**
 - 🐺 Frontend developer of **StarkWolf**, an on-chain social deduction game built on **Starknet**, implementing smart contracts and game mechanics
 - 🥈 Front-end development for **decID** during **IXH24** (XRPL hackathon in Italy), achieving **2nd place**
 - 📈 Creation of a **trading strategy indicator** with **PineScript** in **TradingView**
