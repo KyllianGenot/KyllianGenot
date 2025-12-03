@@ -33,7 +33,7 @@
       <ul align="left">
         <li>🏦 <b>Focus:</b> Blockchain, DeFi, Trading, & Full-Stack Dev</li>
         <li>🎓 <b>Education:</b> Engineering in Fintech & Math</li>
-        <li>🔭 <b>Currently:</b> Building <a href="https://github.com/WaveTip">WaveTip</a> (RLUSD on Twitch)</li>
+        <li>🔭 <b>Currently:</b> Building <a href="https://github.com/WaveTip-fi">WaveTip</a> (RLUSD on Twitch)</li>
       </ul>
     </td>
     <td width="40%" valign="top" align="center">
@@ -89,7 +89,7 @@
       <td align="center">🥇</td>
       <td><b>EasyA x Ripple Apex 2025</b></td>
       <td>
-        <a href="https://github.com/WaveTip"><b>WaveTip</b></a><br/>
+        <a href="https://github.com/WaveTip-fi"><b>WaveTip</b></a><br/>
         <i>Twitch extension for RLUSD tipping. Built browser wallet, PayMaster gas-less txs.</i>
       </td>
       <td align="center">June 2025</td>
