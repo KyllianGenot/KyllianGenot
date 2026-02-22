@@ -1,145 +1,134 @@
-# Welcome to <a href="https://www.linkedin.com/in/kyllian-genot/">Kyllian's</a> GitHub Repository 🚀
-
-<!-- Banner Image with Typing Effect overlay -->
 <div align="center">
-  <a href="https://github.com/KyllianGenot">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=006AFE&center=true&vCenter=true&width=900&lines=Blockchain+Engineer+%7C+Full-Stack+Developer;Winner+of+Multiple+Hackathons;Building+Web3+Solutions+for+the+Future" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:a855f7&height=250&section=header&bg=0a0a0a&text=Kyllian%20Genot&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Blockchain%20Engineer%20%7C%20Full-Stack%20Architect&descAlignY=58&descAlign=50&descSize=20&descColor=ffffff" alt="Header Banner" />
 </div>
 
-<!-- Social Badges Row -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=1000&color=a855f7&center=true&vCenter=true&random=false&width=800&height=60&lines=%3E_Crafting+scalable,+decentralized+systems.;%3E_Multi-Hackathon+Winner+in+DeFi+%26+Web3.;%3E_Bridging+the+gap+between+Smart+Contracts+%26+UIs.;%3E_Based+in+Paris,+building+for+the+world." alt="Typing SVG" />
+</div>
+
 <p align="center">
+  <a href="https://kyks.dev">
+    <img src="https://img.shields.io/badge/PORTFOLIO-kyks.dev-0a0a0a?style=for-the-badge&logo=vercel&logoColor=a855f7" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/kyllian-genot/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:kygenot@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:hello@kyks.dev">
+    <img src="https://img.shields.io/badge/EMAIL-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/KyllianGenot">
-    <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://x.com/KyllianGenot">
+    <img src="https://img.shields.io/badge/X-Follow_Me-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
 </p>
 
-<!-- About Me - Centered Grid, No Stats -->
-<div align="center">
-
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <h2>👨‍💻 About Me</h2>
-      <p align="left">
-        Hi, I'm <b>Kyllian GENOT</b>, a <b>Fintech/UX Design Engineering Student</b> at <a href="https://www.esilv.fr/">ESILV</a>.<br/>
-      </p>
-      <ul align="left">
-        <li>🏦 <b>Focus:</b> Blockchain, DeFi, Trading, & Full-Stack Dev</li>
-        <li>🎓 <b>Education:</b> Engineering in Fintech & Math</li>
-        <li>🔭 <b>Currently:</b> Building <a href="https://github.com/WaveTip-fi">WaveTip</a> (RLUSD on Twitch)</li>
-      </ul>
-    </td>
-    <td width="40%" valign="top" align="center">
-      <!-- You can put a static image, logo, or nothing here -->
-      <!-- Example: your avatar -->
-      <img
-        src="https://avatars.githubusercontent.com/u/140461966?v=4"
-        alt="Kyllian Genot Avatar"
-        width="220"
-      />
-    </td>
-  </tr>
-</table>
-
-</div>
-
-## 🛠️ Tech Stack Arsenal
+<br/>
 
 <div align="center">
-  <table>
+  <!-- MAC OS TERMINAL MOCKUP -->
+  <table width="850" style="background-color: #0d1117; border-radius: 10px; border: 1px solid #30363d;">
     <tr>
-      <td align="center" width="120"><b>Languages</b></td>
-      <td align="center" width="120"><b>Frameworks</b></td>
-      <td align="center" width="120"><b>Tools</b></td>
+      <td style="padding: 10px; border-bottom: 1px solid #30363d; background-color: #161b22;">
+        <svg xmlns="http://www.w3.org/2000/svg" width="54" height="14" viewBox="0 0 54 14">
+          <circle cx="7" cy="7" r="6" fill="#FF5F56" stroke="#E0443E" stroke-width=".5"></circle>
+          <circle cx="27" cy="7" r="6" fill="#FFBD2E" stroke="#DEA123" stroke-width=".5"></circle>
+          <circle cx="47" cy="7" r="6" fill="#27C93F" stroke="#1AAB29" stroke-width=".5"></circle>
+        </svg>
+        <span style="color: #8b949e; font-family: monospace; font-size: 14px; margin-left: 10px;">kyllian@macbook-pro ~ % </span>
+      </td>
     </tr>
     <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=ts,js,rust,cs,solidity" alt="Languages" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind" alt="Frameworks" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=git,github,docker" alt="Tools" />
+      <td style="padding: 20px; color: #c9d1d9; font-family: 'Space Grotesk', 'Courier New', monospace; font-size: 14px; line-height: 1.6;">
+        <span style="color: #a855f7;">$</span> <span style="color: #79c0ff;">cat</span> <span style="color: #d2a8ff;">kyllian-genot.json</span><br/><br/>
+        <span style="color: #ff7b72;">{</span><br/>
+        &nbsp;&nbsp;<span style="color: #79c0ff;">"name"</span>: <span style="color: #a5d6ff;">"Kyllian Genot"</span>,<br/>
+        &nbsp;&nbsp;<span style="color: #79c0ff;">"location"</span>: <span style="color: #a5d6ff;">"Paris, FR 🇫🇷"</span>,<br/>
+        &nbsp;&nbsp;<span style="color: #79c0ff;">"roles"</span>: [<span style="color: #a5d6ff;">"Blockchain Engineer"</span>, <span style="color: #a5d6ff;">"Full-Stack Dev"</span>],<br/>
+        &nbsp;&nbsp;<span style="color: #79c0ff;">"focus"</span>: [<span style="color: #a5d6ff;">"DeFi"</span>, <span style="color: #a5d6ff;">"Smart Contracts"</span>, <span style="color: #a5d6ff;">"Multisig Protocols"</span>],<br/>
+        &nbsp;&nbsp;<span style="color: #79c0ff;">"education"</span>: <span style="color: #a5d6ff;">"Fintech Engineering @ ESILV"</span>,<br/>
+        &nbsp;&nbsp;<span style="color: #79c0ff;">"contact"</span>: <span style="color: #ffa657;">"hello@kyks.dev"</span><br/>
+        <span style="color: #ff7b72;">}</span><br/><br/>
+        <span style="color: #a855f7;">$</span> <span style="color: #79c0ff;">./execute_mission.sh</span><br/>
+        <span style="color: #3fb950;">[✔]</span> Building secure, scalable solutions in Web3 ecosystem.<br/>
+        <span style="color: #3fb950;">[✔]</span> Architecting the future of decentralised finance.<br/>
       </td>
     </tr>
   </table>
 </div>
 
-## 🏆 Hackathon Hall of Fame
-
-<table>
-  <thead>
-    <tr>
-      <th width="10%">Rank</th>
-      <th width="25%">Event</th>
-      <th width="45%">Project & Impact</th>
-      <th width="20%">Date</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">🥇</td>
-      <td><b>EasyA x Ripple Apex 2025</b></td>
-      <td>
-        <a href="https://github.com/WaveTip-fi"><b>WaveTip</b></a><br/>
-        <i>Twitch extension for RLUSD tipping. Built browser wallet, PayMaster gas-less txs.</i>
-      </td>
-      <td align="center">June 2025</td>
-    </tr>
-    <tr>
-      <td align="center">🥈</td>
-      <td><b>ETHDenver 2025</b></td>
-      <td>
-        <a href="https://github.com/KyllianGenot/RippleTip"><b>RippleTip</b></a><br/>
-        <i>Micropayments on XRPL. Optimized transaction speed for live content creators.</i>
-      </td>
-      <td align="center">March 2025</td>
-    </tr>
-    <tr>
-      <td align="center">🥇</td>
-      <td><b>Kiln Hackathon</b></td>
-      <td>
-        <a href="https://github.com/KyllianGenot/Vale"><b>Vale</b></a><br/>
-        <i>Staking automation tooling.</i>
-      </td>
-      <td align="center">Feb 2025</td>
-    </tr>
-    <tr>
-      <td align="center">🥈</td>
-      <td><b>IXH24 (XRPL Rome)</b></td>
-      <td>
-        <a href="https://github.com/KyllianGenot/decID"><b>decID</b></a><br/>
-        <i>Decentralized Identity on XRPL.</i>
-      </td>
-      <td align="center">Nov 2024</td>
-    </tr>
-  </tbody>
-</table>
-
-## 💼 Professional Experience
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KyllianGenot&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
 <br/>
 
-- **Creator of WaveTip** (2025)  
-  *Won 1st Place @ EasyA x Ripple Apex 2025.*  
-  Designed the entire architecture: browser extension, backend.
-  
-- **Full-Stack Developer @ Lobster**  
-  Developing and maintaining a multisig transaction connector, a secure access manager for remote administration, and a DeFi performance dashboard for liquidity positions.  
+<!-- GITHUB STATS SHOWCASE -->
+<table align="center" style="border: none; background-color: transparent;">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=KyllianGenot&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=a855f7&icon_color=a855f7&text_color=a9b1d6&bg_color=0a0a0a" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=KyllianGenot&theme=tokyonight&hide_border=true&title_color=a855f7&sideNums=a9b1d6&sideLabels=a9b1d6&ring=a855f7&fire=a855f7&currStreakLabel=a9b1d6&currStreakNum=a9b1d6&background=0a0a0a" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
----
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KyllianGenot&theme=gruvbox&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+</p>
+
+<!-- ARSENAL (LANGUAGES & TOOLS) -->
+<h2 align="center">⚙️ Core Architecture & Syntax</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,rust,solidity,nodejs,react,nextjs,tailwind,vite,postgres,docker,aws,git,github,figma&perline=8" alt="Tech Stack SVG" />
+</p>
+
+<!-- EXPERIENCE GRID -->
+<br/>
+<h2 align="center">⚔️ Professional Arena</h2>
+
+<table align="center" width="900" style="border: 1px solid #30363d; background-color: #0d1117; border-radius: 8px;">
+  <tr>
+    <th width="50%" align="left" style="padding: 15px; border-bottom: 1px solid #30363d; color: #FFF;">💼 Industry Experience</th>
+    <th width="50%" align="left" style="padding: 15px; border-bottom: 1px solid #30363d; color: #FFF;">🏆 Hackathon Hall of Fame</th>
+  </tr>
+  <tr>
+    <td valign="top" style="padding: 20px;">
+      <b>🦞 Lobster Protocol</b> <br/>
+      <i style="color: #8b949e; font-size: 13px;">Full-Stack Developer | Current</i> <br/>
+      <p style="color: #c9d1d9; font-size: 14px; margin-top: 5px;">Developing a DeFi performance dashboard and engineering complex multisig transaction flows.</p>
+      <br/>
+      <b>🌊 WaveTip</b> <br/>
+      <i style="color: #8b949e; font-size: 13px;">CTO & Co-Founder | 2025</i> <br/>
+      <p style="color: #c9d1d9; font-size: 14px; margin-top: 5px;">Built a revolutionary twitch extension enabling native RLUSD tipping on the XRPL.</p>
+      <br/>
+      <b>🛡️ ZLend</b> <br/>
+      <i style="color: #8b949e; font-size: 13px;">Full-Stack Developer | 2025</i> <br/>
+      <p style="color: #c9d1d9; font-size: 14px; margin-top: 5px;">Implemented sophisticated, privacy-focused lending mechanics directly on the Aleo blockchain.</p>
+    </td>
+    <td valign="top" style="padding: 20px;">
+      <b>🥇 EasyA x Ripple Apex (June 2025)</b> <br/>
+      <i style="color: #8b949e; font-size: 13px;">1st Place - XRPL Mainnet Track</i> <br/>
+      <p style="color: #c9d1d9; font-size: 14px; margin-top: 5px;">Created WaveTip; an integrated browser wallet pushing the limits of XRPL transactions.</p>
+      <br/>
+      <b>🥈 ETHDenver (March 2025)</b> <br/>
+      <i style="color: #8b949e; font-size: 13px;">2nd Place - RLUSD Track</i> <br/>
+      <p style="color: #c9d1d9; font-size: 14px; margin-top: 5px;">Built RippleTip: a gasless Discord tipping bot engineered with an integrated paymaster.</p>
+      <br/>
+      <b>🥇 Kiln Hackathon (Feb 2025)</b> <br/>
+      <i style="color: #8b949e; font-size: 13px;">1st Place</i> <br/>
+      <p style="color: #c9d1d9; font-size: 14px; margin-top: 5px;">Vale: optimized 0% interest lending platform engineered for tokenized validators.</p>
+      <br/>
+      <b>🥈 Italian XRPL (Nov 2024)</b> <br/>
+      <i style="color: #8b949e; font-size: 13px;">2nd Place</i> <br/>
+      <p style="color: #c9d1d9; font-size: 14px; margin-top: 5px;">decID: Built a Web3 Privacy-first identity verification protocol.</p>
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 <div align="center">
-  <b>Let's build the future of Web3 together.</b>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KyllianGenot&theme=tokyo-night&hide_border=true&area=true&color=a855f7&line=a855f7&point=a855f7&bg_color=0a0a0a" alt="Activity Graph" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:a855f7&height=100&section=footer" alt="Footer Banner" />
 </div>
