@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:a855f7&height=250&section=header&bg=0a0a0a&text=Kyllian%20Genot&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Blockchain%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descAlign=50&descSize=20&descColor=ffffff" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:a855f7&height=250&section=header&bg=0a0a0a&text=Kyllian%20Genot&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Blockchain%20Engineer&descAlignY=58&descAlign=50&descSize=20&descColor=ffffff" alt="Header Banner" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=1000&color=a855f7&center=true&vCenter=true&random=false&width=800&height=60&lines=%3E_Crafting+scalable,+decentralized+systems.;%3E_Multi-Hackathon+Winner+in+DeFi+%26+Web3.;%3E_Bridging+the+gap+between+Smart+Contracts+%26+UIs.;%3E_Based+in+Paris,+building+for+the+world." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=1000&color=a855f7&center=true&vCenter=true&random=false&width=800&height=60&lines=%3E_Crafting+scalable,+decentralized+systems.;%3E_Co-founder+%26+CTO+of+Legimens,+the+GEO+agency.;%3E_Multi-Hackathon+Winner+in+DeFi+%26+Web3.;%3E_Bridging+the+gap+between+Smart+Contracts+%26+UIs.;%3E_Based+in+Paris,+building+for+the+world." alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/kyllian-genot/">
     <img src="https://img.shields.io/badge/LINKEDIN-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:hello@kyks.dev">
+  <a href="mailto:kygenot@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://x.com/KyllianGenot">
@@ -42,14 +42,16 @@
         <span style="color: #ff7b72;">{</span><br/>
         &nbsp;&nbsp;<span style="color: #79c0ff;">"name"</span>: <span style="color: #a5d6ff;">"Kyllian Genot"</span>,<br/>
         &nbsp;&nbsp;<span style="color: #79c0ff;">"location"</span>: <span style="color: #a5d6ff;">"Paris, FR 🇫🇷"</span>,<br/>
-        &nbsp;&nbsp;<span style="color: #79c0ff;">"roles"</span>: [<span style="color: #a5d6ff;">"Blockchain Engineer"</span>, <span style="color: #a5d6ff;">"Full-Stack Dev"</span>],<br/>
-        &nbsp;&nbsp;<span style="color: #79c0ff;">"focus"</span>: [<span style="color: #a5d6ff;">"Blockchain"</span>, <span style="color: #a5d6ff;">"UI/UX"</span>, <span style="color: #a5d6ff;">"AI"</span>],<br/>
-        &nbsp;&nbsp;<span style="color: #79c0ff;">"education"</span>: <span style="color: #a5d6ff;">"Fintech Engineering @ ESILV"</span>,<br/>
-        &nbsp;&nbsp;<span style="color: #79c0ff;">"contact"</span>: <span style="color: #ffa657;">"hello@kyks.dev"</span><br/>
+        &nbsp;&nbsp;<span style="color: #79c0ff;">"roles"</span>: [<span style="color: #a5d6ff;">"Full-Stack Developer"</span>, <span style="color: #a5d6ff;">"Blockchain Engineer"</span>],<br/>
+        &nbsp;&nbsp;<span style="color: #79c0ff;">"company"</span>: <span style="color: #a5d6ff;">"Legimens · Co-founder & CTO"</span>,<br/>
+        &nbsp;&nbsp;<span style="color: #79c0ff;">"focus"</span>: [<span style="color: #a5d6ff;">"AI & GEO"</span>, <span style="color: #a5d6ff;">"Blockchain"</span>, <span style="color: #a5d6ff;">"UI/UX"</span>],<br/>
+        &nbsp;&nbsp;<span style="color: #79c0ff;">"education"</span>: <span style="color: #a5d6ff;">"Fintech & UX Design @ ESILV"</span>,<br/>
+        &nbsp;&nbsp;<span style="color: #79c0ff;">"contact"</span>: <span style="color: #ffa657;">"kygenot@gmail.com"</span><br/>
         <span style="color: #ff7b72;">}</span><br/><br/>
         <span style="color: #a855f7;">$</span> <span style="color: #79c0ff;">./execute_mission.sh</span><br/>
         <span style="color: #3fb950;">[✔]</span> Building secure, scalable solutions in Web3 ecosystem.<br/>
         <span style="color: #3fb950;">[✔]</span> Architecting the future of decentralised finance.<br/>
+        <span style="color: #3fb950;">[✔]</span> Getting brands cited by AI search engines.<br/>
       </td>
     </tr>
   </table>
@@ -75,7 +77,7 @@
 <h2 align="center">⚙️ Core Architecture & Syntax</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,rust,solidity,nodejs,react,tailwind,vite,postgres,docker,git,github,figma&perline=6" alt="Tech Stack SVG" />
+  <img src="https://skillicons.dev/icons?i=ts,py,rust,solidity,react,nextjs,nodejs,tailwind,vite,postgres,docker,git,github,figma&perline=7" alt="Tech Stack SVG" />
 </p>
 
 <!-- EXPERIENCE GRID -->
@@ -89,12 +91,16 @@
   </tr>
   <tr>
     <td valign="top" style="padding: 20px;">
+      <b><a href="https://legimens.com">🧠 Legimens</a></b> <br/>
+      <i style="color: #8b949e; font-size: 13px;">Co-founder & CTO | Current</i> <br/>
+      <p style="color: #c9d1d9; font-size: 14px; margin-top: 5px;">Building the GEO agency that gets brands cited by ChatGPT, Claude, Gemini, and Perplexity.</p>
+      <br/>
       <b><a href="https://lobster-protocol.com">🦞 Lobster Protocol</a></b> <br/>
-      <i style="color: #8b949e; font-size: 13px;">Full-Stack Developer | Current</i> <br/>
-      <p style="color: #c9d1d9; font-size: 14px; margin-top: 5px;">Developing a DeFi performance dashboard and engineering complex multisig transaction flows.</p>
+      <i style="color: #8b949e; font-size: 13px;">Full-Stack Developer | 2025 - 2026</i> <br/>
+      <p style="color: #c9d1d9; font-size: 14px; margin-top: 5px;">Built a DeFi client dashboard, internal access tooling, and a Rust scheduler for on-chain PnL pipelines.</p>
       <br/>
       <b><a href="https://wavetip.fi">🌊 WaveTip</a></b> <br/>
-      <i style="color: #8b949e; font-size: 13px;">CTO & Co-Founder | 2025</i> <br/>
+      <i style="color: #8b949e; font-size: 13px;">Co-founder & CTO | 2025 - 2026</i> <br/>
       <p style="color: #c9d1d9; font-size: 14px; margin-top: 5px;">Built a revolutionary twitch extension enabling native RLUSD tipping on the XRPL.</p>
       <br/>
       <b><a href="https://zlend.fi">🛡️ ZLend</a></b> <br/>
