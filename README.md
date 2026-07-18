@@ -77,7 +77,7 @@
 <h2 align="center">⚙️ Core Architecture & Syntax</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,py,rust,solidity,react,nextjs,nodejs,tailwind,vite,postgres,docker,git,github,figma&perline=7" alt="Tech Stack SVG" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,postgres,py,rust,solidity,tailwind,vite,docker,git,figma&perline=7" alt="Tech Stack SVG" />
 </p>
 
 <!-- EXPERIENCE GRID -->
