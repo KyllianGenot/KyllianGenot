@@ -1,138 +1,283 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:a855f7&height=250&section=header&bg=0a0a0a&text=Kyllian%20Genot&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Blockchain%20Engineer&descAlignY=58&descAlign=50&descSize=20&descColor=ffffff" alt="Header Banner" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:a855f7&height=220&section=header&text=Kyllian%20Genot&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20React%20%C2%B7%20Node.js%20%C2%B7%20TypeScript%20%C2%B7%20Rust%20%C2%B7%20PostgreSQL&descAlignY=58&descSize=17&descColor=ffffff"
+    alt="Kyllian Genot"
+  />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=1000&color=a855f7&center=true&vCenter=true&random=false&width=800&height=60&lines=%3E_Crafting+scalable,+decentralized+systems.;%3E_Co-founder+%26+CTO+of+Legimens,+the+GEO+agency.;%3E_Multi-Hackathon+Winner+in+DeFi+%26+Web3.;%3E_Bridging+the+gap+between+Smart+Contracts+%26+UIs.;%3E_Based+in+Paris,+building+for+the+world." alt="Typing SVG" />
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-kyks.dev-0a0a0a?style=for-the-badge&logo=vercel&logoColor=a855f7)](https://kyks.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyllian-genot/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kygenot@gmail.com)
+
 </div>
 
-<p align="center">
-  <a href="https://kyks.dev">
-    <img src="https://img.shields.io/badge/PORTFOLIO-kyks.dev-0a0a0a?style=for-the-badge&logo=vercel&logoColor=a855f7" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/kyllian-genot/">
-    <img src="https://img.shields.io/badge/LINKEDIN-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:kygenot@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://x.com/KyllianGenot">
-    <img src="https://img.shields.io/badge/X-Follow_Me-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-</p>
-
-<br/>
+<br />
 
 <div align="center">
-  <!-- MAC OS TERMINAL MOCKUP -->
-  <table width="850" style="background-color: #0d1117; border-radius: 10px; border: 1px solid #30363d;">
-    <tr>
-      <td style="padding: 10px; border-bottom: 1px solid #30363d; background-color: #161b22;">
-        <svg xmlns="http://www.w3.org/2000/svg" width="54" height="14" viewBox="0 0 54 14">
-          <circle cx="7" cy="7" r="6" fill="#FF5F56" stroke="#E0443E" stroke-width=".5"></circle>
-          <circle cx="27" cy="7" r="6" fill="#FFBD2E" stroke="#DEA123" stroke-width=".5"></circle>
-          <circle cx="47" cy="7" r="6" fill="#27C93F" stroke="#1AAB29" stroke-width=".5"></circle>
-        </svg>
-        <span style="color: #8b949e; font-family: monospace; font-size: 14px; margin-left: 10px;">kyllian@macbook-pro ~ % </span>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding: 20px; color: #c9d1d9; font-family: 'Space Grotesk', 'Courier New', monospace; font-size: 14px; line-height: 1.6;">
-        <span style="color: #a855f7;">$</span> <span style="color: #79c0ff;">cat</span> <span style="color: #d2a8ff;">kyllian-genot.json</span><br/><br/>
-        <span style="color: #ff7b72;">{</span><br/>
-        &nbsp;&nbsp;<span style="color: #79c0ff;">"name"</span>: <span style="color: #a5d6ff;">"Kyllian Genot"</span>,<br/>
-        &nbsp;&nbsp;<span style="color: #79c0ff;">"location"</span>: <span style="color: #a5d6ff;">"Paris, FR 🇫🇷"</span>,<br/>
-        &nbsp;&nbsp;<span style="color: #79c0ff;">"roles"</span>: [<span style="color: #a5d6ff;">"Full-Stack Developer"</span>, <span style="color: #a5d6ff;">"Blockchain Engineer"</span>],<br/>
-        &nbsp;&nbsp;<span style="color: #79c0ff;">"company"</span>: <span style="color: #a5d6ff;">"Legimens · Co-founder & CTO"</span>,<br/>
-        &nbsp;&nbsp;<span style="color: #79c0ff;">"focus"</span>: [<span style="color: #a5d6ff;">"AI & GEO"</span>, <span style="color: #a5d6ff;">"Blockchain"</span>, <span style="color: #a5d6ff;">"UI/UX"</span>],<br/>
-        &nbsp;&nbsp;<span style="color: #79c0ff;">"education"</span>: <span style="color: #a5d6ff;">"Fintech & UX Design @ ESILV"</span>,<br/>
-        &nbsp;&nbsp;<span style="color: #79c0ff;">"contact"</span>: <span style="color: #ffa657;">"kygenot@gmail.com"</span><br/>
-        <span style="color: #ff7b72;">}</span><br/><br/>
-        <span style="color: #a855f7;">$</span> <span style="color: #79c0ff;">./execute_mission.sh</span><br/>
-        <span style="color: #3fb950;">[✔]</span> Building secure, scalable solutions in Web3 ecosystem.<br/>
-        <span style="color: #3fb950;">[✔]</span> Architecting the future of decentralised finance.<br/>
-        <span style="color: #3fb950;">[✔]</span> Getting brands cited by AI search engines.<br/>
-      </td>
-    </tr>
-  </table>
+
+![Open to Work](https://img.shields.io/badge/Open_to_Work-September_2026-22c55e?style=flat-square)
+![Location](https://img.shields.io/badge/Location-Paris,_France-3b82f6?style=flat-square)
+![English](https://img.shields.io/badge/English-B2+-f59e0b?style=flat-square)
+![Hackathons](https://img.shields.io/badge/Hackathon_Awards-4-a855f7?style=flat-square)
+
 </div>
 
-<br/>
+## 👋 About me
 
-<!-- GITHUB STATS SHOWCASE -->
-<table align="center" style="border: none; background-color: transparent;">
+I am a Full-Stack Software Engineer based in Paris, specializing in **React, Node.js, TypeScript, Rust, and PostgreSQL**.
+
+I have built and shipped production systems at **Lobster Protocol**, including backend services, REST APIs, data pipelines, internal platforms, and observability infrastructure.
+
+I am also the co-founder and CTO of:
+
+- **Legimens**, where I built a production Claude Skill orchestrating end-to-end GEO audits through a resumable 13-phase agentic workflow.
+- **WaveTip**, an XRPL-based browser extension enabling native RLUSD tipping on Twitch.
+
+🏆 Awarded at four international hackathons in Singapore, Paris, Denver, and Rome  
+🎓 Engineering student in Fintech and UX Design at ESILV, graduating in 2026  
+💼 Open to full-time Software Engineering opportunities from September 2026
+
+---
+
+## 💼 Professional experience
+
+<table>
   <tr>
-    <td align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=KyllianGenot&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=a855f7&icon_color=a855f7&text_color=a9b1d6&bg_color=0a0a0a" alt="GitHub Stats" />
+    <td width="110">
+      <strong>2025 - 2026</strong>
     </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=KyllianGenot&theme=tokyonight&hide_border=true&title_color=a855f7&sideNums=a9b1d6&sideLabels=a9b1d6&ring=a855f7&fire=a855f7&currStreakLabel=a9b1d6&currStreakNum=a9b1d6&background=0a0a0a" alt="GitHub Streak" />
+    <td>
+      <h3>Lobster Protocol</h3>
+      <strong>Full-Stack Software Engineer</strong>
+      <br /><br />
+      <code>React</code>
+      <code>Node.js</code>
+      <code>TypeScript</code>
+      <code>Rust</code>
+      <code>PostgreSQL</code>
+      <code>ClickHouse</code>
+      <br /><br />
+      <ul>
+        <li>Built and shipped an internal production dashboard with backend caching and observability using Prometheus, Grafana, and Loki.</li>
+        <li>Designed and deployed a Rust job scheduler orchestrating on-chain PnL and liquidity metrics pipelines.</li>
+        <li>Redesigned an internal access-management platform around REST APIs, session management, and RBAC.</li>
+        <li>Developed a multisig connector service for blockchain transactions.</li>
+      </ul>
     </td>
   </tr>
 </table>
 
-
-
-<!-- ARSENAL (LANGUAGES & TOOLS) -->
-<h2 align="center">⚙️ Core Architecture & Syntax</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,postgres,py,rust,solidity,tailwind,vite,docker,git,figma&perline=7" alt="Tech Stack SVG" />
-</p>
-
-<!-- EXPERIENCE GRID -->
-<br/>
-<h2 align="center">⚔️ Professional Arena</h2>
-
-<table align="center" width="900" style="border: 1px solid #30363d; background-color: #0d1117; border-radius: 8px;">
+<table>
   <tr>
-    <th width="50%" align="left" style="padding: 15px; border-bottom: 1px solid #30363d; color: #FFF;">💼 Industry Experience</th>
-    <th width="50%" align="left" style="padding: 15px; border-bottom: 1px solid #30363d; color: #FFF;">🏆 Hackathon Hall of Fame</th>
-  </tr>
-  <tr>
-    <td valign="top" style="padding: 20px;">
-      <b><a href="https://legimens.com">🧠 Legimens</a></b> <br/>
-      <i style="color: #8b949e; font-size: 13px;">Co-founder & CTO | Current</i> <br/>
-      <p style="color: #c9d1d9; font-size: 14px; margin-top: 5px;">Building the GEO agency that gets brands cited by ChatGPT, Claude, Gemini, and Perplexity.</p>
-      <br/>
-      <b><a href="https://lobster-protocol.com">🦞 Lobster Protocol</a></b> <br/>
-      <i style="color: #8b949e; font-size: 13px;">Full-Stack Developer | 2025 - 2026</i> <br/>
-      <p style="color: #c9d1d9; font-size: 14px; margin-top: 5px;">Built a DeFi client dashboard, internal access tooling, and a Rust scheduler for on-chain PnL pipelines.</p>
-      <br/>
-      <b><a href="https://wavetip.fi">🌊 WaveTip</a></b> <br/>
-      <i style="color: #8b949e; font-size: 13px;">Co-founder & CTO | 2025 - 2026</i> <br/>
-      <p style="color: #c9d1d9; font-size: 14px; margin-top: 5px;">Built a revolutionary twitch extension enabling native RLUSD tipping on the XRPL.</p>
-      <br/>
-      <b><a href="https://zlend.fi">🛡️ ZLend</a></b> <br/>
-      <i style="color: #8b949e; font-size: 13px;">Full-Stack Developer | 2025</i> <br/>
-      <p style="color: #c9d1d9; font-size: 14px; margin-top: 5px;">Implemented sophisticated, privacy-focused lending mechanics directly on the Aleo blockchain.</p>
+    <td width="110">
+      <strong>2026 - Present</strong>
     </td>
-    <td valign="top" style="padding: 20px;">
-      <b><a href="https://wavetip.fi">🥇 EasyA x Ripple Apex (June 2025)</a></b> <br/>
-      <i style="color: #8b949e; font-size: 13px;">1st Place - XRPL Mainnet Track</i> <br/>
-      <p style="color: #c9d1d9; font-size: 14px; margin-top: 5px;">Created WaveTip; an integrated browser wallet pushing the limits of XRPL transactions.</p>
-      <br/>
-      <b><a href="https://github.com/KyllianGenot/RippleTip">🥈 ETHDenver (March 2025)</a></b> <br/>
-      <i style="color: #8b949e; font-size: 13px;">2nd Place - RLUSD Track</i> <br/>
-      <p style="color: #c9d1d9; font-size: 14px; margin-top: 5px;">Built RippleTip: a gasless Discord tipping bot engineered with an integrated paymaster.</p>
-      <br/>
-      <b><a href="https://github.com/KyllianGenot/Vale">🥇 Kiln Hackathon (Feb 2025)</a></b> <br/>
-      <i style="color: #8b949e; font-size: 13px;">1st Place</i> <br/>
-      <p style="color: #c9d1d9; font-size: 14px; margin-top: 5px;">Vale: optimized 0% interest lending platform engineered for tokenized validators.</p>
-      <br/>
-      <b><a href="https://github.com/KyllianGenot/decID">🥈 Italian XRPL (Nov 2024)</a></b> <br/>
-      <i style="color: #8b949e; font-size: 13px;">2nd Place</i> <br/>
-      <p style="color: #c9d1d9; font-size: 14px; margin-top: 5px;">decID: Built a Web3 Privacy-first identity verification protocol.</p>
+    <td>
+      <h3>Legimens</h3>
+      <strong>Co-founder and CTO</strong>
+      <br /><br />
+      <code>Claude Skills</code>
+      <code>Agentic Workflows</code>
+      <code>TypeScript</code>
+      <code>PDF/XLSX Automation</code>
+      <br /><br />
+      <ul>
+        <li>Designed and built a production Claude Skill orchestrating end-to-end GEO audits for enterprise clients.</li>
+        <li>Architected a resumable 13-phase workflow with state management, multi-agent review, deterministic validation gates, and automated report generation.</li>
+      </ul>
     </td>
   </tr>
 </table>
 
-<br/>
+<table>
+  <tr>
+    <td width="110">
+      <strong>2025 - 2026</strong>
+    </td>
+    <td>
+      <h3>WaveTip</h3>
+      <strong>Co-founder and CTO</strong>
+      <br /><br />
+      <code>React</code>
+      <code>TypeScript</code>
+      <code>Node.js</code>
+      <code>XRPL</code>
+      <code>RLUSD</code>
+      <br /><br />
+      <ul>
+        <li>Built a Chrome extension integrating native RLUSD tipping directly into Twitch.</li>
+        <li>Developed the XRPL wallet onboarding flow, including wallet provisioning, trustline configuration, encrypted private-key storage, and Xaman QR-code funding.</li>
+        <li>Deployed the product to the Chrome Web Store and XRPL Mainnet.</li>
+        <li>Selected for UC Berkeley's Digital Assets Xcelerator with Ripple.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## ⚙️ Technology stack
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KyllianGenot&theme=tokyo-night&hide_border=true&area=true&color=a855f7&line=a855f7&point=a855f7&bg_color=0a0a0a" alt="Activity Graph" />
+  <img
+    src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,postgres,rust,py,solidity,docker,git,linux,figma&perline=7"
+    alt="Technology stack"
+  />
+</div>
+
+<br />
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Backend and data</h3>
+      <p>
+        <code>Node.js</code>
+        <code>TypeScript</code>
+        <code>Rust</code>
+        <code>REST APIs</code>
+        <code>PostgreSQL</code>
+        <code>ClickHouse</code>
+        <code>Caching</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Frontend</h3>
+      <p>
+        <code>React</code>
+        <code>Next.js</code>
+        <code>JavaScript</code>
+        <code>HTML</code>
+        <code>CSS</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Infrastructure and tooling</h3>
+      <p>
+        <code>Docker</code>
+        <code>Git</code>
+        <code>CI/CD</code>
+        <code>Linux</code>
+        <code>Prometheus</code>
+        <code>Grafana</code>
+        <code>Loki</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Digital assets</h3>
+      <p>
+        <code>XRPL</code>
+        <code>Solidity</code>
+        <code>Smart Contracts</code>
+        <code>Wallets</code>
+        <code>Multisig</code>
+        <code>DeFi</code>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Selected projects
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">
+        <a href="https://github.com/KyllianGenot/RippleTip">RippleTip</a>
+      </h3>
+      <p align="center">
+        Discord tipping bot using RLUSD on the XRP Ledger.
+      </p>
+      <p align="center">
+        <strong>🥈 2nd place</strong><br />
+        ETHDenver RLUSD Track
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">
+        <a href="https://github.com/KyllianGenot/Vale">Vale</a>
+      </h3>
+      <p align="center">
+        Zero-interest DeFi lending application built during the Kiln Hackathon.
+      </p>
+      <p align="center">
+        <strong>🥇 1st place</strong><br />
+        Kiln Hackathon
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">
+        <a href="https://github.com/KyllianGenot/decID">decID</a>
+      </h3>
+      <p align="center">
+        Privacy-focused decentralized identity verification protocol.
+      </p>
+      <p align="center">
+        <strong>🥈 2nd place</strong><br />
+        Italian XRPL Hackathon
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🏆 Hackathon achievements
+
+| Event | Location | Result | Project |
+|---|---|---:|---|
+| EasyA x Ripple APEX | Singapore | 🥇 1st place, XRPL Mainnet Track | WaveTip |
+| Kiln Hackathon | Paris | 🥇 1st place | Vale |
+| ETHDenver | Denver | 🥈 2nd place, RLUSD Track | RippleTip |
+| Italian XRPL Hackathon | Rome | 🥈 2nd place | decID |
+
+---
+
+## 📊 GitHub activity
+
+<div align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=KyllianGenot&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&bg_color=0d1117"
+    alt="Kyllian Genot GitHub statistics"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KyllianGenot&layout=compact&hide_border=true&title_color=a855f7&text_color=c9d1d9&bg_color=0d1117"
+    alt="Most used languages"
+  />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:a855f7&height=100&section=footer" alt="Footer Banner" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=KyllianGenot&theme=github-compact&hide_border=true&area=true&color=a855f7&line=a855f7&point=ffffff&bg_color=0d1117"
+    alt="GitHub activity graph"
+  />
+</div>
+
+---
+
+## 📬 Contact
+
+<div align="center">
+
+| Platform | Link |
+|---|---|
+| Portfolio | [kyks.dev](https://kyks.dev) |
+| LinkedIn | [Kyllian Genot](https://www.linkedin.com/in/kyllian-genot/) |
+| Email | [kygenot@gmail.com](mailto:kygenot@gmail.com) |
+
+</div>
+
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:a855f7&height=100&section=footer"
+    alt=""
+  />
 </div>
