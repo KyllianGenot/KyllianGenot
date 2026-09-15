@@ -72,7 +72,7 @@ I am also the co-founder and CTO of:
 <table>
   <tr>
     <td width="110">
-      <strong>2026 - Present</strong>
+      <strong>2026</strong>
     </td>
     <td>
       <h3>Legimens</h3>
