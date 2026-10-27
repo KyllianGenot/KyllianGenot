@@ -17,7 +17,6 @@
 
 <div align="center">
 
-![Open to Work](https://img.shields.io/badge/Open_to_Work-September_2026-22c55e?style=flat-square)
 ![Location](https://img.shields.io/badge/Location-Paris,_France-3b82f6?style=flat-square)
 ![English](https://img.shields.io/badge/English-B2+-f59e0b?style=flat-square)
 ![Hackathons](https://img.shields.io/badge/Hackathon_Awards-4-a855f7?style=flat-square)
@@ -37,11 +36,27 @@ I am also the co-founder and CTO of:
 
 🏆 Awarded at four international hackathons in Singapore, Paris, Denver, and Rome  
 🎓 Engineering student in Fintech and UX Design at ESILV, graduating in 2026  
-💼 Open to full-time Software Engineering opportunities from September 2026
+💼 Backend Software Engineer at **Riot**
 
 ---
 
 ## 💼 Professional experience
+
+<table>
+  <tr>
+    <td width="110">
+      <strong>2026 - present</strong>
+    </td>
+    <td>
+      <h3>Riot</h3>
+      <strong>Backend Software Engineer</strong>
+      <br /><br />
+      <code>Elixir</code>
+      <code>Phoenix</code>
+      <code>PostgreSQL</code>
+    </td>
+  </tr>
+</table>
 
 <table>
   <tr>
