@@ -5,7 +5,7 @@
   <img alt="Kyllian Genot" src="./assets/name-light.svg" width="400">
 </picture>
 
-**Backend Software Engineer at [Riot](https://tryriot.com).** I build and ship production software end to end, from Elixir services and PostgreSQL to Rust data pipelines and agentic AI workflows.
+**Backend Software Engineer at [Riot](https://riot.ai).** I build and ship production software end to end, from Elixir services and PostgreSQL to Rust data pipelines and agentic AI workflows.
 
 <a href="mailto:kygenot@gmail.com"><img alt="Contact" src="./assets/pill-contact.svg" height="40"></a>
 <a href="https://kyks.dev"><img alt="kyks.dev" src="./assets/pill-portfolio.svg" height="40"></a>
